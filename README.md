@@ -47,6 +47,9 @@ This project delves into the video gaming industry, focusing on online games and
 
 Incorporating future considerations, such as analyzing video game sales during the pandemic, adds depth to our understanding of the industry's dynamics and evolution over time.
 
+## Conclusion 
+
+
 ## Sources
 
 - Kaggle
