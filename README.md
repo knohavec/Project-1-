@@ -51,7 +51,7 @@ In Conclusion, sales of video games can be influed by the following factors:
 1 - Positve reviews or ratings
 2 - Low reviews or ratings
 3 - Genre prefernences 
-4 - Platforms that have been out the longest have the higher sales with greater market penetration 
+4 - Platforms popularity is a key factor in video game sales 
 
 
 ## Sources
