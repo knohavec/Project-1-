@@ -53,4 +53,14 @@ Incorporating future considerations, such as analyzing video game sales during t
 - Twitch
 - IGDB
 
+## Conclusion
+
+![Ratings Totals](Visualizations\Ratings_totals.png)
+This data suggests that people on the IGDB website tend to rate games following something similar to a normal distribution, where most games get rated 60-69, and the least games are rated 0-9 or 90-99.
+![Ratings vs Sales](Visualizations\Ratings_sales.png)
+Our research concluded that there is a correlation between ratings and sales. It is a positive correlation of 0.153, indicating that as ratings increase, sales also increase. 
+![Sales by Date](Visualizations\sales_by_release_date.png)
+There is little to no correlation between the year and average sales of games. The correlation coefficient was ~ -0.07
+![Ratings by Date](Visualizations\ratings_by_date.png)
+There is little to no correlation between the year and people's average rating of games. The correlation coefficient was ~ -0.07
 
