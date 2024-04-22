@@ -63,4 +63,16 @@ Our research concluded that there is a correlation between ratings and sales. It
 There is little to no correlation between the year and average sales of games. The correlation coefficient was ~ -0.07
 ![Ratings by Date](Visualizations/ratings_by_date.png)
 There is little to no correlation between the year and people's average rating of games. The correlation coefficient was ~ -0.07
-
+![Sales by Country](Visualizations/sales_by_country_top_10.png)
+![Sales by Country Pie](Visualizations/Total_sales_by_country.png)
+These visualizations clearly show that the North America region is leading the world in sales, both for individual games, and as a sum.
+![Sales by Platform](Visualizations/sales_by_platform.png)
+![Sales by Platform Pie](Visualizations/Sales_by_platform_pie.png)
+The PlayStation 2 sold the most games globally, with over 1,200,000,000 (1.2 Billion) games sold for the system.
+![Rating by Genre](Visualizations/ratings_by_genre.png)
+There is little to no correlation between ratings and genre, with role-playing games being rated a tiny bit higher on average
+![Sales by Genre](Visualizations/sales_by_genre.png)
+It appears that games in the action genre have higher sales than games in other genres
+![Nintendo sales by year](Visualizations/nintendo_sales.png)
+![Prophet Prediciton for Nintendo Sales](Visualizations/prophet_prediction.png)
+![Prophet Components](Visualizations/prophet_components.png)
