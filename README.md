@@ -46,13 +46,7 @@ This project delves into the video gaming industry, focusing on online games and
 
 Incorporating future considerations, such as analyzing video game sales during the pandemic, adds depth to our understanding of the industry's dynamics and evolution over time.
 
-## Conclusion 
-In Conclusion, sales of video games can be influed by the following factors:
-1 - Positve reviews or ratings
-2 - Low reviews or ratings
-3 - Genre prefernences 
-4 - Platforms popularity is a key factor in video game sales 
-
+## Executive Summary (https://docs.google.com/document/d/1L0A56Tv1IbdLR3lgkLg1lOgp9rtj5ouT/edit) 
 
 ## Sources
 
