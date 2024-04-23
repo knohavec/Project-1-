@@ -139,3 +139,5 @@ The dominant factors that impact global sales of platform are:
 
 
 ![Prophet Components](Visualizations/prophet_components.png)
+
+![Prophet_yhats](Visualizations/prophet_yhats.png)
